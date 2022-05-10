@@ -273,8 +273,8 @@ and is invisibly returned when plot=TRUE.
   }
 }
 \references{
-Double Box Plot: \url{http://tomizonor.wordpress.com/2013/03/15/double-box-plot/}\cr
-Double Box Plot 1.2: \url{http://tomizonor.wordpress.com/2013/11/24/double-box-plot-1-2/}
+Double Box Plot: \url{https://tomizonor.wordpress.com/2013/03/15/double-box-plot/}\cr
+Double Box Plot 1.2: \url{https://tomizonor.wordpress.com/2013/11/24/double-box-plot-1-2/}
 }
 \author{
 Shinichiro Tomizono
